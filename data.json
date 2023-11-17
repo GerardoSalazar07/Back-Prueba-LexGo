@@ -1,0 +1,78 @@
+[
+    {
+        "nombre": "LexGo",
+        "id": "6556477f407e82796542fc74"
+    },
+    
+
+
+    {
+        "nombre": "Departamento A",
+        "empresa": "6556477f407e82796542fc74",
+        "id": "65564814407e82796542fc77"
+    },
+    {
+        "nombre": "Departamento B",
+        "empresa": "6556477f407e82796542fc74",
+        "id": "65564843407e82796542fc7a"
+    },
+    {
+        "nombre": "Departamento C",
+        "empresa": "6556477f407e82796542fc74",
+        "id": "65564856407e82796542fc7d"
+    },
+
+
+
+    {
+        "nombre": "Alejandro Gonzalez",
+        "rol": "Lider Dep. A",
+        "departamento": "65564814407e82796542fc77",
+        "id": "65564c5002e818bfb185bff8"
+    },
+    {
+        "nombre": "Maria Rodriguez",
+        "rol": "Lider Dep. C",
+        "departamento": "65564856407e82796542fc7d",
+        "id": "65564c7702e818bfb185bffb"
+    },
+
+
+
+    {
+        "nombre": "Javier Lopez",
+        "rol": "Empleado Dep. A",
+        "departamento": "65564814407e82796542fc77",
+        "id": "65564c9602e818bfb185bffe"
+    },
+    {
+        "nombre": "Laura Fernandez",
+        "rol": "Empleado Dep. A",
+        "departamento": "65564814407e82796542fc77",
+        "id": "65564cae02e818bfb185c001"
+    },
+    {
+        "nombre": "Carlos Perez",
+        "rol": "Empleado Dep. B",
+        "departamento": "65564843407e82796542fc7a",
+        "id": "65564cc102e818bfb185c004"
+    },
+    {
+        "nombre": "Ana Martinez",
+        "rol": "Empleado Dep. B",
+        "departamento": "65564843407e82796542fc7a",
+        "id": "65564cd502e818bfb185c007"
+    },
+    {
+        "nombre": "Luis Sanchez",
+        "rol": "Empleado Dep. C",
+        "departamento": "65564856407e82796542fc7d",
+        "id": "65564ce802e818bfb185c00a"
+    },
+    {
+        "nombre": "Carmen Ramirez",
+        "rol": "Empleado Dep. C",
+        "departamento": "65564856407e82796542fc7d",
+        "id": "65564cf902e818bfb185c00d"
+    }
+]

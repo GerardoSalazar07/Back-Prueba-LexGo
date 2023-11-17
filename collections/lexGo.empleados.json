@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "65564c9602e818bfb185bffe"
+  },
+  "nombre": "Javier Lopez",
+  "rol": "Empleado Dep. A",
+  "departamento": {
+    "$oid": "65564814407e82796542fc77"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65564cae02e818bfb185c001"
+  },
+  "nombre": "Laura Fernandez",
+  "rol": "Empleado Dep. A",
+  "departamento": {
+    "$oid": "65564814407e82796542fc77"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65564cc102e818bfb185c004"
+  },
+  "nombre": "Carlos Perez",
+  "rol": "Empleado Dep. B",
+  "departamento": {
+    "$oid": "65564843407e82796542fc7a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65564cd502e818bfb185c007"
+  },
+  "nombre": "Ana Martinez",
+  "rol": "Empleado Dep. B",
+  "departamento": {
+    "$oid": "65564843407e82796542fc7a"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65564ce802e818bfb185c00a"
+  },
+  "nombre": "Luis Sanchez",
+  "rol": "Empleado Dep. C",
+  "departamento": {
+    "$oid": "65564856407e82796542fc7d"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65564cf902e818bfb185c00d"
+  },
+  "nombre": "Carmen Ramirez",
+  "rol": "Empleado Dep. C",
+  "departamento": {
+    "$oid": "65564856407e82796542fc7d"
+  },
+  "__v": 0
+}]

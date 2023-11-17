@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "65564c5002e818bfb185bff8"
+  },
+  "nombre": "Alejandro Gonzalez",
+  "rol": "Lider Dep. A",
+  "departamento": {
+    "$oid": "65564814407e82796542fc77"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65564c7702e818bfb185bffb"
+  },
+  "nombre": "Maria Rodriguez",
+  "rol": "Lider Dep. C",
+  "departamento": {
+    "$oid": "65564856407e82796542fc7d"
+  },
+  "__v": 0
+}]

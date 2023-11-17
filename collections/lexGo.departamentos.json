@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "65564814407e82796542fc77"
+  },
+  "nombre": "Departamento A",
+  "empresa": {
+    "$oid": "6556477f407e82796542fc74"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65564843407e82796542fc7a"
+  },
+  "nombre": "Departamento B",
+  "empresa": {
+    "$oid": "6556477f407e82796542fc74"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65564856407e82796542fc7d"
+  },
+  "nombre": "Departamento C",
+  "empresa": {
+    "$oid": "6556477f407e82796542fc74"
+  },
+  "__v": 0
+}]
